@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=800080&height=300&section=header&text=Yeonju's%20GitHub&fontSize=90)
 ### Hi there 👋
-I'm Junior Front-end Developer using HTML/CSS, JS and React.
 
 ##### SNS
 <a href="https://velog.io/@jyj5232/series" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
